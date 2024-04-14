@@ -34,5 +34,5 @@ An enthusiastic and skilled engineer from Indore, with an undergraduate degree i
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rahulbamniya20&card_width=850" alt="GitHub Streak" /></a>
 <!--Footer-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You%20&section=footer&desc=Visit%20again....%20&descAlign=50&descAlignY=70"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You%20&section=footer&desc=Visit%20again....%20&descAlign=50&descAlignY=85&fontAlignY=65&fontAlign=50"/>
 

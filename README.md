@@ -12,9 +12,18 @@
 
 
 <br />
+
+<p>
+An enthusiastic and skilled engineer from Indore, with an undergraduate degree in Computer Science and Engineering from one of the premier institutes of India, namely National Institute of Technology, Calicut. My expertise spans cutting-edge technologies like React, Next.js, MongoDB, and MySQL. I also excel in UI/UX design, with a strong proficiency in Figma. Currently, I am passionately expanding my knowledge in System Design, aiming to master one of the most challenging domains in tech.
+  
+  - 🌱 I’m currently learning System design.
+
+  - 💬 Ask me about **React, Next.js, Python, mySQL**
+
+  - 📫 How to reach me **rahul78bamniya@gmail.com**
+  
+</p>
 <!--CODING GIF-->
 
-
-<!--ABOUT ME CONTENT-->
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You%20&section=footer&desc=Visit%20again....%20&descAlign=50&descAlignY=70"/>
 

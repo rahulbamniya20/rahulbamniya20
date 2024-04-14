@@ -1,7 +1,8 @@
 <!--TOP WAVY-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I'm%20Rahul%20%20&section=header&reversal=false&textBg=false&desc=A%20dedicated%20software%20developer.....&fontAlignY=29&animation=fadeIn&descAlignY=49"/>
 
-
+ <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Engineer;Pixel%20Perfect%20UI/UX%20Designer;&width=800&height=45"></a>
+</p>
 
 <!--CONNECT ME BADGES-->
 <p align="left">
@@ -23,6 +24,7 @@ An enthusiastic and skilled engineer from Indore, with an undergraduate degree i
   - 📫 How to reach me **rahul78bamniya@gmail.com**
   
 </p>
+
 <!--CODING GIF-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You%20&section=footer&desc=Visit%20again....%20&descAlign=50&descAlignY=70"/>

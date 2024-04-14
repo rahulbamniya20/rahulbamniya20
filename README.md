@@ -7,7 +7,7 @@
 <!--CONNECT ME BADGES-->
 <p align="left">
 <!--   <a href="https://www.linkedin.com/in/rahul-bamniya-73a98817a/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <a href="www.linkedin.com/in/rahul78bamniya" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Get%20my%20Linkedin-8A2BE2" /></a>
+  <a href="https://www.linkedin.com/in/rahul-bamniya-73a98817a/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Get%20my%20Linkedin-8A2BE2" /></a>
   <a href="https://twitter.com/rahul78bamniya" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Get%20my%20Twitter-8A2BE2" /></a>
 
 

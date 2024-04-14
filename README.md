@@ -13,7 +13,7 @@
 
 
 <br />
-
+<!--INTRODUCTION-->
 <p>
 An enthusiastic and skilled engineer from Indore, with an undergraduate degree in Computer Science and Engineering from one of the premier institutes of India, namely National Institute of Technology, Calicut. My expertise spans cutting-edge technologies like React, Next.js, MongoDB, and MySQL. I also excel in UI/UX design, with a strong proficiency in Figma. Currently, I am passionately expanding my knowledge in System Design, aiming to master one of the most challenging domains in tech.
   
@@ -25,7 +25,14 @@ An enthusiastic and skilled engineer from Indore, with an undergraduate degree i
   
 </p>
 
-<!--CODING GIF-->
+## Languages and tools
+
+|  Program Languages   | Frameworks & Libraries   | Databases   | Other   |
+| ----------- | ----------- | ----------- | ----------- |
+|  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width=50px height=50px> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width=50px height=50px>     |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width=50px height=50px><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>     | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width=50px height=50px><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width=50px height=50px>       |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"   width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/webflow_logo_icon_169218.png" width=50px height=50px> |
+
+
+<!--Footer-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20You%20&section=footer&desc=Visit%20again....%20&descAlign=50&descAlignY=70"/>
 

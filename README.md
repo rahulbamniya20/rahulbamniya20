@@ -1,7 +1,9 @@
 <!--TOP WAVY-->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Rahul%20&desc=A%20dedicated%20software%20developer....&descAlignY=53&fontAlignY=33"/>
 
- <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Engineer;Pixel%20Perfect%20UI/UX%20Designer;&width=800&height=45"></a>
+
+<a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Full%20Stack%20Engineer;Pixel%20Perfect%20UI/UX%20Designer;&width=800&height=45"></a>
 </p>
 
 <!--CONNECT ME BADGES-->

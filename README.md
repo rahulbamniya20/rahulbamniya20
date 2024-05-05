@@ -23,7 +23,7 @@ An enthusiastic and skilled engineer from Indore, with an undergraduate degree i
 
   - 💬 Ask me about **React, Next.js, Python, mySQL**
 
-  - 📫 How to reach me **rahul78bamniya@gmail.com**
+  - 📫 Reach me out **rahul78bamniya@gmail.com**
   
 </p>
 

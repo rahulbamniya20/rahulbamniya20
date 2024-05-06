@@ -1,3 +1,5 @@
+
+<!--TOP WAVY-->
 <!--TOP WAVY-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Rahul%20&desc=A%20dedicated%20software%20developer....&descAlignY=53&fontAlignY=33"/>
@@ -21,7 +23,7 @@ An enthusiastic and skilled engineer from Indore, with an undergraduate degree i
   
   - 🌱 I’m currently exploring Web3 and Blockchain.
 
-  - 💬 Ask me about **React, Next.js, Python, mySQL**
+  - 💬 Ask me about **React, Next.js, Python, MySQL**
 
   - 📫 Reach me out **rahul78bamniya@gmail.com**
   
